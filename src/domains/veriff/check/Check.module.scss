@@ -1,0 +1,17 @@
+@import '../../../styles/variables';
+
+.root {
+  padding: 10px 20px;
+}
+
+.disabled {
+  color: $grayColor;
+}
+
+.selected {
+  background-color: $highlightColor;
+}
+
+.desc {
+  margin-bottom: 10px;
+}
